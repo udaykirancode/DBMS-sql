@@ -18,3 +18,16 @@ mysql> select *from w.course where course_type="p";
 |         9 | hum          | p           |      4 |     475 |   4345 |
 +-----------+--------------+-------------+--------+---------+--------+
 4 rows in set (0.00 sec)
+mysql> select course_no,course_descr,tot_reg from w.course;
++-----------+--------------+---------+
+| course_no | course_descr | tot_reg |
++-----------+--------------+---------+
+|         1 | bio          |       2 |
+|         2 | bio          |       1 |
+|         6 | hum          |       2 |
+|         7 | sci          |    NULL |
+|         9 | hum          |       2 |
+|        11 | sci          |    NULL |
+|        21 | sci          |       1 |
++-----------+--------------+---------+
+7 rows in set (0.00 sec)
