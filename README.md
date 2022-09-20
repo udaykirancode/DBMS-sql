@@ -15,3 +15,7 @@
 ![image](https://user-images.githubusercontent.com/113407411/191282346-3aff18f8-2bc1-4dc0-962d-acbed4f0141f.png)
 ![image](https://user-images.githubusercontent.com/113407411/191282403-2268d551-b970-4140-9c2d-d271c2b9ba90.png)
 ![image](https://user-images.githubusercontent.com/113407411/191290959-d4c1109b-1bf0-497d-9502-79dbc4a43fcf.png)
+##exp4
+(https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.6)
+![image](https://user-images.githubusercontent.com/113407411/191301759-509e0dd1-7fb1-4264-b01b-29bbbf28eda1.png)
+![image](https://user-images.githubusercontent.com/113407411/191302009-8c8ec8e8-3a68-4047-b8b2-46e31ff31f65.png)
