@@ -9,3 +9,8 @@
 ##exp3
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.3)
 ![image](https://user-images.githubusercontent.com/113407411/191215923-c05d887d-f960-4e15-a14b-91ab443f4379.png)
+##exp4
+(https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.4)
+![image](https://user-images.githubusercontent.com/113407411/191282181-121c7ffb-2db1-47a7-914e-26e51a0e2ce9.png)
+![image](https://user-images.githubusercontent.com/113407411/191282346-3aff18f8-2bc1-4dc0-962d-acbed4f0141f.png)
+![image](https://user-images.githubusercontent.com/113407411/191282403-2268d551-b970-4140-9c2d-d271c2b9ba90.png)
