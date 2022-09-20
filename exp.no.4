@@ -55,3 +55,35 @@ mysql> select *from w.course where course_type="s";
 |        21 | sci          | s           |      2 |    NULL |   4118 |
 +-----------+--------------+-------------+--------+---------+--------+
 3 rows in set (0.00 sec)
+mysql> select *from w.faculty where fac_name like "%ma";
++--------+----------+--------+------------+--------------+-----------+---------+
+| fac_no | fac_name | gender | dob        | date_of_join | mobile_no | dept_no |
++--------+----------+--------+------------+--------------+-----------+---------+
+|   4118 | padma    | f      | 1992-12-06 | 2013-01-10   |     79996 |       7 |
+|   4878 | rama     | m      | 1999-10-06 | 2013-09-09   |     76676 |       7 |
++--------+----------+--------+------------+--------------+-----------+---------+
+2 rows in set (0.00 sec)
+mysql> select *from w.student where name like "%ma%";
++--------+------------+--------+------------+-----------+--------+
+| reg_no | name       | gender | dob        | mobile_no | city   |
++--------+------------+--------+------------+-----------+--------+
+|     17 | venu kumar | m      | 2002-04-07 |     72739 | guntur |
++--------+------------+--------+------------+-----------+--------+
+1 row in set (0.00 sec)
+
+mysql> select *from w.student where city like "%sal%";
+Empty set (0.00 sec)
+
+mysql> select *from w.student where length(name)<6;
++-----------+-------+--------+------------+-----------+---------+
+| reg_no    | name  | gender | dob        | mobile_no | city    |
++-----------+-------+--------+------------+-----------+---------+
+|        10 | hari  | m      | 2002-08-07 |     93981 | kadapa  |
+|        11 | durga | m      | 2002-04-09 |    728799 | guntur  |
+|        13 | ramya | f      | 2002-10-07 |    767589 | chittor |
+| 191711342 | kiran | m      | 2002-11-14 |  77319232 | chirala |
++-----------+-------+--------+------------+-----------+---------+
+4 rows in set (0.00 sec)
+
+mysql> select name from w.student where name like "%th%";
+Empty set (0.00 sec)
