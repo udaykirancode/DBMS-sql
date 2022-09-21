@@ -38,3 +38,8 @@
 ##exp8
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.8)
 ![Screenshot (45)](https://user-images.githubusercontent.com/113407411/191425453-f836aaea-c91a-4bad-8917-a9a28b963792.png)
+##exp9
+(https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.9)
+![image](https://user-images.githubusercontent.com/113407411/191425756-61968b5d-711c-48dd-bcaf-75865adc1039.png)
+![image](https://user-images.githubusercontent.com/113407411/191425789-7a2fd4b5-70bd-430c-b58d-6abd88c37e28.png)
+![image](https://user-images.githubusercontent.com/113407411/191425826-2054283d-9e58-46d1-aa06-eacb98d816e6.png)
