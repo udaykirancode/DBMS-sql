@@ -23,3 +23,21 @@ mysql> call string();
 | 1,2,3,4,5, |
 +------------+
 1 row in set (0.00 sec)
+mysql> create procedure dorepeat(p1 int)
+    -> begin
+    -> set @x=0;
+    -> repeat set @x=@x+1;
+    -> until @x>p1 end repeat; end//
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> call dorepeat(4001) //
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> select @x;
+    -> //
++------+
+| @x   |
++------+
+| 4002 |
++------+
+1 row in set (0.00 sec)
