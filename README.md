@@ -19,11 +19,12 @@
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.6)
 ![image](https://user-images.githubusercontent.com/113407411/191301759-509e0dd1-7fb1-4264-b01b-29bbbf28eda1.png)
 ![image](https://user-images.githubusercontent.com/113407411/191302009-8c8ec8e8-3a68-4047-b8b2-46e31ff31f65.png)
+##exp5
+![Uploading image.png…]
 ##exp6
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.6)
 ![image](https://user-images.githubusercontent.com/113407411/191306860-eb8b022a-735c-4a60-8379-268096e9653e.png)
 ![image](https://user-images.githubusercontent.com/113407411/191306951-9527f60d-e439-4102-8c30-39059d037d52.png)
-
 ##exp7
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.7)
 ![image](https://user-images.githubusercontent.com/113407411/191306380-f00189a0-b56f-4fd7-b84f-1e6fa1ea88a8.png)
