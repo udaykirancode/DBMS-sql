@@ -35,3 +35,6 @@
 ##exp7
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.7)
 ![image](https://user-images.githubusercontent.com/113407411/191306380-f00189a0-b56f-4fd7-b84f-1e6fa1ea88a8.png)
+##exp8
+(https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.8)
+![Screenshot (45)](https://user-images.githubusercontent.com/113407411/191425453-f836aaea-c91a-4bad-8917-a9a28b963792.png)
