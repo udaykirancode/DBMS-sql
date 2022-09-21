@@ -20,7 +20,14 @@
 ![image](https://user-images.githubusercontent.com/113407411/191301759-509e0dd1-7fb1-4264-b01b-29bbbf28eda1.png)
 ![image](https://user-images.githubusercontent.com/113407411/191302009-8c8ec8e8-3a68-4047-b8b2-46e31ff31f65.png)
 ##exp5
-![Uploading image.png…]
+(https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.5)
+![image](https://user-images.githubusercontent.com/113407411/191408409-45f10913-7136-4f59-95b5-a77b9de12530.png)
+![image](https://user-images.githubusercontent.com/113407411/191408312-aac29ca7-2442-4f74-8cdc-9ce7ca88547c.png)
+![image](https://user-images.githubusercontent.com/113407411/191408335-6c2743e7-8679-451b-b3ba-13f7b452f4d8.png)
+![image](https://user-images.githubusercontent.com/113407411/191408349-cb20dfd8-194b-4742-b0c0-e6b82dc4656f.png)
+![image](https://user-images.githubusercontent.com/113407411/191408363-16998c83-5c58-4a6c-b79f-fadabbb76527.png)
+![image](https://user-images.githubusercontent.com/113407411/191408378-69a2fda1-da13-4ea3-9361-030ac7c132fe.png)
+
 ##exp6
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.6)
 ![image](https://user-images.githubusercontent.com/113407411/191306860-eb8b022a-735c-4a60-8379-268096e9653e.png)
