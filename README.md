@@ -49,3 +49,4 @@
 ##exp.no.11
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.11)
 ![image](https://user-images.githubusercontent.com/113407411/191533091-2a26dbae-57b6-44e8-9715-cb6f156cd10d.png)
+![image](https://user-images.githubusercontent.com/113407411/191534327-e848d8d0-c9d7-4d36-a192-9bc67fd6ea78.png)
