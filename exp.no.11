@@ -1,0 +1,25 @@
+mysql> delimiter //
+mysql> create procedure string()
+    -> begin
+    -> declare x int;
+    -> declare str varchar(255);
+    -> set x=1;
+    -> set str='';
+    -> while x<=5 do
+    -> set str =concat(str,x,',');
+    -> set x=x+1;
+    -> end while;
+    -> select str;
+    -> end
+    -> //
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> call string();
+    -> ;
+    -> //
++------------+
+| str        |
++------------+
+| 1,2,3,4,5, |
++------------+
+1 row in set (0.00 sec)
