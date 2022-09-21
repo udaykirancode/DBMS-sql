@@ -1,0 +1,25 @@
+mysql> create function incomelevel(month_value int)
+    -> returns varchar(20)
+    -> DETERMINISTIC
+    -> begin
+    -> declare in_level varchar(20);
+    -> case month_value
+    ->  when 4000 then
+    ->   set in_level='low income';
+    ->  when 5000 then
+    ->   set in_level='avg income';
+    ->  else
+    ->   set in_level='high income';
+    -> end case;
+    -> return in_level;
+    -> end;
+    -> //
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> select incomelevel(5400);//
++-------------------+
+| incomelevel(5400) |
++-------------------+
+| high income       |
++-------------------+
+1 row in set (0.02 sec)
