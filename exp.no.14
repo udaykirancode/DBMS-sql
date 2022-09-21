@@ -17,3 +17,21 @@ mysql> call student();
 | 191711342 | kiran      | m      | 2002-11-14 |  77319232 | chirala  |       NULL |   NULL |      NULL |
 +-----------+------------+--------+------------+-----------+----------+------------+--------+-----------+
 9 rows in set (0.00 sec)
+mysql> delimiter $$
+mysql> create procedure cus_level(
+    -> in p_cus_num int(11),
+    -> out p_cus_level varchar(10))
+    -> begin
+    ->  declare creditlin double;
+    ->  select creditlimit into creditlin
+    ->  from customers
+    ->  where cust_number - p_cus_num;
+    ->  if creditlin>50000 then
+    -> set p_cus_level='paltinum';
+    ->  elseif (creditlin <=50000 and creditlin>=10000)then
+    ->   set p_cus_level='gold';
+    ->  elseif creditlin <10000 then
+    ->   set p_cus_level='silver';
+    ->  end if;
+    -> end$$
+Query OK, 0 rows affected, 1 warning (0.01 sec)
