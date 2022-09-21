@@ -44,7 +44,7 @@
 ![image](https://user-images.githubusercontent.com/113407411/191425789-7a2fd4b5-70bd-430c-b58d-6abd88c37e28.png)
 ![image](https://user-images.githubusercontent.com/113407411/191425826-2054283d-9e58-46d1-aa06-eacb98d816e6.png)
 ##exp10
-(https://github.com/udaykirancode/DBMS-sql/blob/main/expe.no.10)
+(https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.10)
 ![image](https://user-images.githubusercontent.com/113407411/191452501-4c1ef8e8-16cd-4ced-8539-9711f9dec889.png)
 ##exp.no.11
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.11)
