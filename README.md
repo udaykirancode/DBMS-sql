@@ -60,3 +60,7 @@
 ##exp.no.15
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.15)
 ![image](https://user-images.githubusercontent.com/113407411/191548417-98f57aac-f3e7-49e9-af4a-dd2f15aee5ff.png)
+##exp.no.16
+(https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.16)
+![image](https://user-images.githubusercontent.com/113407411/191662059-dfc197de-dacc-4450-9dc8-f189aa334715.png)
+![image](https://user-images.githubusercontent.com/113407411/191662044-c77b8a62-a2d2-4892-beed-32bf1c8d63df.png)
