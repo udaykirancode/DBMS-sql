@@ -74,4 +74,5 @@
 (https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no19)
 ![image](https://user-images.githubusercontent.com/113407411/191779683-6198f87c-153e-4713-afa1-fc38d2d3c73b.png)
 ##exp.no.20
-(
+(https://github.com/udaykirancode/DBMS-sql/blob/main/exp.no.20)
+![image](https://user-images.githubusercontent.com/113407411/191784136-bdb73f23-fe7f-4a1b-abb9-e40bad5fb8b4.png)
